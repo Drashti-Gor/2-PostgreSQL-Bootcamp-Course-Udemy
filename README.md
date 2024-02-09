@@ -1,2 +1,2 @@
 # PostgreSQL-Bootcamp-Course-Udemy
-PostgreSQL all practice files
+This repository includes all practice files I have done throughout the course.
